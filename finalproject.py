@@ -1,13 +1,3 @@
-"""
-Name: Jacob Waxman
-CS230: Section 5
-Data: skyscrapers.csv
-URL: STREAMLIT CLOUD LINE (UPDATE LATER!!!)
-
-Description: This program provides city-filtered tables and views of skyscraper data on a Streamlit
-website, specifically comparing heights, location, and completion year.
-"""
-
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
